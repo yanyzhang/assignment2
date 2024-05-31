@@ -6,8 +6,8 @@ body {
 }
 
 .account {
-    height: 50%;
-    width: 60%;
+    max-height: 350px;
+    max-width: 500%;
     background-color: #101818;
     padding: 30px;
 }
@@ -106,6 +106,7 @@ p {
 
 .start {
     font-size: 20px;
+    font-weight: bold;
     /* letter-spacing: 3px; */
 }
 
